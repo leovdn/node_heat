@@ -12,4 +12,4 @@ class AuthenticateUserController {
   }
 }
 
-export { AuthenticateUserService }
+export { AuthenticateUserController }
