@@ -15,7 +15,7 @@
   "editor.formatOnSave": true,
   "explorer.confirmDragAndDrop": false,
   "explorer.confirmDelete": false,
-  "editor.rulers": [80, 120],
+  "editor.rulers": [120],
   "editor.semanticHighlighting.enabled": false,
   "editor.tabSize": 2,
   "workbench.iconTheme": "material-icon-theme",
@@ -33,6 +33,9 @@
       "switch:command"
   ],
   "window.zoomLevel": -1,
-  "tabnine.experimentalAutoImports": true
-
+  "tabnine.experimentalAutoImports": true,
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma",
+    "editor.formatOnSave": true,
+}
 }
